@@ -1,0 +1,37 @@
+/*-------------------TODO Reset.css?-------------------*/
+
+
+
+
+/*--------------------HTML Elements--------------------*/
+
+
+
+/*-----------------------Classes-----------------------*/
+
+
+
+/*-------------------------IDs-------------------------*/
+#sessionList {
+    background-color: #9acccd;
+    border: solid 2px #9aaaab;
+    margin: 4vh 0 4vh 0;
+    height: 92vh;
+}
+
+#sessionChat {
+    background-color: red;
+    border: solid 2px darkred;
+    margin: 4vh 0 4vh 0;
+    height: 92vh;
+}
+
+#sessionInfo {
+    background-color: blue;
+    border: solid 2px darkblue;
+    margin: 4vh 0 4vh 0;
+    height: 92vh;
+}
+
+
+/*------------------------Debug------------------------*/
